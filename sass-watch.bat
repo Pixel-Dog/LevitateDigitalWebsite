@@ -1,0 +1,3 @@
+@echo off
+echo Sass watching res/style.css...
+node-sass -w res/style.scss res/style.css
